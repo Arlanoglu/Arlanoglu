@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa ARLANOĞLU</h1>
-<h3 align="center">I am a graduate of Business Information Management. However, I quit my job months ago to learn software. Now I am in constant research to improve myself in the field of software.</h3>
+<h3 align="center">I am a graduate of Business Information Management. However, I quit my job months ago to learn software. Now I am in constant research to more improve myself in the field of software.</h3>
 
 - 🔭 My completed project [Bilge Hotel](https://github.com/Arlanoglu/BilgeHotel_Project_NetCore)</br>
     * Graduation project for .Net Software Development Certificate
